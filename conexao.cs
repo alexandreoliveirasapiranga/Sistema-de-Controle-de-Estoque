@@ -9,7 +9,7 @@ namespace camadaDados
 {
     class conexao
     {
-        //public static string Cn = @"Data Source=.;Initial Catalog=dbcomercio;User ID=sa;Password=al1010";
+        
         public static string Cn = @"Data Source = DESKTOP-UE2G19Q; Integrated Security = True";
     }
 }
